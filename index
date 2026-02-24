@@ -26,7 +26,7 @@ video {
 </head>
 <body>
 <video autoplay loop muted playsinline>
-  <source src="kiosk animation.mp4" type="video/mp4">
+  <source src="kiosk animation (2).mp4" type="video/mp4">
 </video>
 </body>
 </html>
